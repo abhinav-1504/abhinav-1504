@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @abhinav-1504
 - 👀 I’m interested in Software Development
+- 💻 I have solid foundation in C, C++, OPPS, STL, OS.
 - 🌱 I’m currently learning Java & Advance concepts of Data Structure and Algorithms
 - 💞️ I’m looking to collaborate on Projects where I can apply my all skills.
 - 📫 How to reach me LINKEDIN : https://www.linkedin.com/in/abhinav-singh-chauhan-33a821288
