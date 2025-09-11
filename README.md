@@ -10,16 +10,16 @@
 
 ## 🚀 About Me  
 
-I'm **Abhinav Singh Chauhan**, a Backend Engineer focused on **building systems that don’t just run—but scale**.  
-💻 I specialize in **Java, Spring Boot, and MySQL**, and thrive on writing **clean, modular, and reliable code**.  
+I'm **Abhinav Singh Chauhan**, a Backend Engineer obsessed with **designing systems that scale silently but powerfully**.  
+💻 I specialize in **Java, Spring Boot, and MySQL**, and thrive on building **clean, modular, and reliable codebases**.  
 
 ⚡ What drives me?  
-- Designing **REST APIs that never break under load**  
-- Implementing **authentication systems that protect data like a vault**  
-- Exploring **Docker, Microservices, and Cloud Deployment**  
+- Crafting **REST APIs that never let clients down**  
+- Engineering **authentication systems that protect data like a fortress**  
+- Exploring **Microservices, Docker, and Cloud Deployment**  
 
-🎯 Mission: To engineer backends that are **invisible yet indispensable**  
-✨ Motto: *“Great backends are like oxygen—unseen, but essential.”*  
+🎯 Mission: To build backends that are **invisible to the user, but indispensable to the system**  
+✨ Motto: *“The best backends are like air—unseen, but vital.”*  
 
 ---
 
@@ -50,11 +50,35 @@ I'm **Abhinav Singh Chauhan**, a Backend Engineer focused on **building systems 
 
 ---
 
+## 📂 Featured Projects  
+
+🚚 [**Delivery Tracking System**](https://github.com/abhinav-1504/delivery-tracking-system)  
+*Spring Boot app with JWT authentication, GPS tracking, and email alerts.*  
+💡 **Quote:** *“Backends are highways—the smoother they are, the faster everything moves.”*  
+
+🤖 [**PromptCraft AI**](https://github.com/abhinav-1504/PromptCraft-AI)  
+*AI-powered full-stack app with chat, image generation & TTS.*  
+💡 **Quote:** *“The best backends turn complexity into simplicity for the frontend.”*  
+
+---
+
+## 🏆 Achievements  
+
+![trophy](https://github-profile-trophy.vercel.app/?username=abhinav-1504&theme=radical&no-frame=true&margin-w=10)  
+
+---
+
 ## 📊 GitHub Stats  
 
 ![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinav-1504&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-1504&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhinav-1504&theme=radical)  
+
+---
+
+## 📈 Coding Activity  
+
+![Abhinav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhinav-1504&theme=radical)  
 
 ---
 
@@ -69,5 +93,6 @@ I'm **Abhinav Singh Chauhan**, a Backend Engineer focused on **building systems 
 
 💡 **Backend Quotes to live by:**  
 - *“A great backend is like an iceberg—90% is invisible, but it’s what keeps everything afloat.”*  
-- *“Frontend is the face, backend is the brain.”*  
-- *“Scalability isn’t an option—it’s the foundation.”*  
+- *“Frontend is the smile, backend is the heartbeat.”*  
+- *“Scalability isn’t a feature—it’s survival.”*  
+- *“Backends aren’t about code—they’re about trust, speed, and resilience.”*  
