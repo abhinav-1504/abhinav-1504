@@ -1,25 +1,25 @@
 # Hi, I'm Abhinav Singh Chauhan 👋  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Engineer+⚡;Spring+Boot+%7C+MySQL+%7C+Docker;Passionate+about+System+Design+%26+Scalable+APIs;Building+Secure+%26+Future-Proof+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=950&lines=Backend+Engineer+⚡;Spring+Boot+%7C+MySQL+%7C+Docker;Designing+APIs+that+Scale+%26+Perform;Turning+System+Designs+into+Reality;Code+that+Works+Even+in+the+Background)](https://git.io/typing-svg)
 
 🎓 MSc IT @ DA-IICT | Backend Engineer  
-💻 Passionate about **Backend Development, System Design, and Scalable Systems**  
+💻 Passionate about **Backend Development, System Design & Scalable Architectures**  
 ⚡ Believer in writing code that is **secure, scalable, and future-proof**  
 
 ---
 
 ## 🚀 About Me  
 
-I'm **Abhinav Singh Chauhan**, a Backend Engineer passionate about building **secure, scalable, and production-ready systems**.  
-💻 I specialize in **Java, Spring Boot, and MySQL**, and love designing clean architectures with real-world impact.  
+I'm **Abhinav Singh Chauhan**, a Backend Engineer focused on **building systems that don’t just run—but scale**.  
+💻 I specialize in **Java, Spring Boot, and MySQL**, and thrive on writing **clean, modular, and reliable code**.  
 
 ⚡ What drives me?  
-- Turning complex ideas into **simple, reliable solutions**  
-- Crafting **REST APIs, authentication systems, and cloud-ready apps**  
+- Designing **REST APIs that never break under load**  
+- Implementing **authentication systems that protect data like a vault**  
 - Exploring **Docker, Microservices, and Cloud Deployment**  
 
-🎯 Mission: To engineer backends that are **robust, efficient, and future-proof**  
-✨ Motto: *“Code should not only work—it should inspire confidence.”*  
+🎯 Mission: To engineer backends that are **invisible yet indispensable**  
+✨ Motto: *“Great backends are like oxygen—unseen, but essential.”*  
 
 ---
 
@@ -79,4 +79,7 @@ I'm **Abhinav Singh Chauhan**, a Backend Engineer passionate about building **se
 
 ---
 
-💡 *“The best way to predict the future is to build it.”* 🚀  
+💡 **Backend Quotes to live by:**  
+- *“A great backend is like an iceberg—90% is invisible, but it’s what keeps everything afloat.”*  
+- *“Frontend is the face, backend is the brain.”*  
+- *“Scalability isn’t an option—it’s the foundation.”*  
