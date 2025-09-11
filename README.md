@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Engineer+⚡;Spring+Boot+%7C+MySQL+%7C+Docker;Passionate+about+System+Design+%26+Scalable+APIs;Building+Secure+%26+Future-Proof+Applications)](https://git.io/typing-svg)
 
-🎓 MSc IT @ DA-IICT | Backend Engineer
-💻 Passionate about **Backend Development, System Design**  
+🎓 MSc IT @ DA-IICT | Backend Engineer  
+💻 Passionate about **Backend Development, System Design, and Scalable Systems**  
 ⚡ Believer in writing code that is **secure, scalable, and future-proof**  
 
 ---
@@ -64,8 +64,19 @@ I'm **Abhinav Singh Chauhan**, a Backend Engineer passionate about building **se
 
 ---
 
+## 📈 Coding Activity  
+
+![Abhinav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhinav-1504&theme=radical)  
+
+---
+
 ## 📫 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinavsinghc1) 
 [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavsinghc48@gmail.com)  
 ![Profile Views](https://komarev.com/ghpvc/?username=abhinav-1504&style=for-the-badge)  
+![GitHub Followers](https://img.shields.io/github/followers/abhinav-1504?style=for-the-badge)  
+
+---
+
+💡 *“The best way to predict the future is to build it.”* 🚀  
