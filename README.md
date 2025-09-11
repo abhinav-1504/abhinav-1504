@@ -2,7 +2,7 @@
 ![Profile Banner](https://github.com/abhinav-1504/abhinav-1504/blob/main/banner.gif) <!-- optional banner if you add one -->
 
 🎓 MSc IT @ DA-IICT | Backend Engineer | Software Engineer Intern @ Code Care Technology  
-💻 Passionate about **Backend Development, System Design**
+💻 Passionate about **Backend Development, System Design**     
 ⚡ Believer in writing code that is **secure, scalable, and future-proof**  
 
 ---
