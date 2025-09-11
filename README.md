@@ -50,23 +50,11 @@ I'm **Abhinav Singh Chauhan**, a Backend Engineer focused on **building systems 
 
 ---
 
-## 🏆 Achievements  
-
-![trophy](https://github-profile-trophy.vercel.app/?username=abhinav-1504&theme=radical&no-frame=true&margin-w=10)  
-
----
-
 ## 📊 GitHub Stats  
 
 ![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinav-1504&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-1504&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhinav-1504&theme=radical)  
-
----
-
-## 📈 Coding Activity  
-
-![Abhinav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhinav-1504&theme=radical)  
 
 ---
 
