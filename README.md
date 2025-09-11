@@ -1,8 +1,16 @@
-# Hi, I'm Abhinav Singh Chauhan 👋
+## 🚀 About Me  
 
-🎓 MSc IT @ DA-IICT | Backend Engineer (Java, Spring Boot, MySQL)  
-💻 Software Engineer Intern @ Code Care Technology  
-🚀 Love solving real-world problems using clean & scalable code.  
+I'm **Abhinav Singh Chauhan**, a Backend Engineer passionate about building **secure, scalable, and production-ready systems**.  
+💻 I specialize in **Java, Spring Boot, and MySQL**, and love designing clean architectures with real-world impact.  
+
+⚡ What drives me?  
+- Turning complex ideas into **simple, reliable solutions**  
+- Crafting **REST APIs, authentication systems, and cloud-ready apps**  
+- Exploring **Docker, Microservices, and Cloud Deployment**  
+
+🎯 Mission: To engineer backends that are **robust, efficient, and future-proof**  
+✨ Motto: *“Code should not only work—it should inspire confidence.”*  
+
 
 ---
 
