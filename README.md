@@ -1,8 +1,9 @@
 # Hi, I'm Abhinav Singh Chauhan 👋  
-![Profile Banner](https://github.com/abhinav-1504/abhinav-1504/blob/main/banner.gif) <!-- optional banner if you add one -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Engineer+⚡;Spring+Boot+%7C+MySQL+%7C+Docker;Passionate+about+System+Design+%26+Scalable+APIs;Building+Secure+%26+Future-Proof+Applications)](https://git.io/typing-svg)
 
 🎓 MSc IT @ DA-IICT | Backend Engineer | Software Engineer Intern @ Code Care Technology  
-💻 Passionate about **Backend Development, System Design**     
+💻 Passionate about **Backend Development, System Design**  
 ⚡ Believer in writing code that is **secure, scalable, and future-proof**  
 
 ---
@@ -49,6 +50,12 @@ I'm **Abhinav Singh Chauhan**, a Backend Engineer passionate about building **se
 
 ---
 
+## 🏆 Achievements  
+
+![trophy](https://github-profile-trophy.vercel.app/?username=abhinav-1504&theme=radical&no-frame=true&margin-w=10)  
+
+---
+
 ## 📊 GitHub Stats  
 
 ![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinav-1504&show_icons=true&theme=radical)  
@@ -58,6 +65,7 @@ I'm **Abhinav Singh Chauhan**, a Backend Engineer passionate about building **se
 ---
 
 ## 📫 Connect With Me  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinavsinghc1) 
 [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavsinghc48@gmail.com)  
 ![Profile Views](https://komarev.com/ghpvc/?username=abhinav-1504&style=for-the-badge)  
