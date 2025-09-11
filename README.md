@@ -50,32 +50,12 @@ I'm **Abhinav Singh Chauhan**, a Backend Engineer obsessed with **designing syst
 
 ---
 
-## 📂 Featured Projects  
-
-🚚 [**Delivery Tracking System**](https://github.com/abhinav-1504/delivery-tracking-system)  
-*Spring Boot app with JWT authentication, real-time GPS tracking, and automated email notifications.*  
-💡 **Backend Quote:** *“A good backend doesn’t just deliver data—it delivers trust.”*  
-
-🤖 [**PromptCraft AI**](https://github.com/abhinav-1504/PromptCraft-AI)  
-*Full-stack AI-powered app integrating chat, image generation, and TTS.*  
-💡 **Backend Quote:** *“Backends are the silent engines behind magical experiences.”*  
-
----
-
-## 🏆 Achievements  
-
-![trophy](https://github-profile-trophy.vercel.app/?username=abhinav-1504&theme=radical&no-frame=true&margin-w=10)  
-
----
-
 ## 📊 GitHub Stats & Graphs  
 
 ![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinav-1504&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-1504&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhinav-1504&theme=radical)  
-
-📈 **Contribution Graph**  
-![Abhinav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhinav-1504&theme=radical)  
+ 
 
 📊 **GitHub Summary Cards**  
 [![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinav-1504&theme=radical)]()  
@@ -100,4 +80,3 @@ I'm **Abhinav Singh Chauhan**, a Backend Engineer obsessed with **designing syst
 - *“Frontend is the face, backend is the brain.”*  
 - *“Scalability isn’t an option—it’s the foundation.”*  
 - *“The best backend is one the user never notices—it just works.”*  
-- *“Backends don’t just serve requests, they serve reliability.”*  
