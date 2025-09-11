@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Engineer+⚡;Spring+Boot+%7C+MySQL+%7C+Docker;Passionate+about+System+Design+%26+Scalable+APIs;Building+Secure+%26+Future-Proof+Applications)](https://git.io/typing-svg)
 
-🎓 MSc IT @ DA-IICT | Backend Engineer | Software Engineer Intern @ Code Care Technology  
+🎓 MSc IT @ DA-IICT | Backend Engineer
 💻 Passionate about **Backend Development, System Design**  
 ⚡ Believer in writing code that is **secure, scalable, and future-proof**  
 
