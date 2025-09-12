@@ -79,11 +79,6 @@ An AI-powered full-stack app integrating chat, image generation (DALL·E), recip
 
 ---
 
-## 🐍 Contribution Snake  
-![Snake animation](https://github.com/abhinav-1504/abhinav-1504/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📫 Let's Connect
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of an ambitious team. Feel free to reach out!
