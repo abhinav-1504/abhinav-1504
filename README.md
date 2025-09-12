@@ -1,82 +1,97 @@
-# Hi, I'm Abhinav Singh Chauhan 👋  
+# Hi, I'm Abhinav Singh Chauhan 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=950&lines=Backend+Engineer+⚡;Spring+Boot+%7C+MySQL+%7C+Docker;Designing+APIs+that+Scale+%26+Perform;Turning+System+Designs+into+Reality;Code+that+Works+Even+in+the+Background)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=950&lines=Backend+Engineer+%7C+System+Architect;Building+Resilient+%26+Scalable+Java+Applications;From+System+Design+Blueprints+to+Production+Code;Spring+Boot+%E2%80%A2+MySQL+%E2%80%A2+Docker+%E2%80%A2+Microservices)](https://git.io/typing-svg)
 
-🎓 MSc IT @ DA-IICT | Backend Engineer  
-💻 Passionate about **Backend Development, System Design & Scalable Architectures**  
-⚡ Believer in writing code that is **secure, scalable, and future-proof**  
-
----
-
-## 🚀 About Me  
-
-I'm **Abhinav Singh Chauhan**, a Backend Engineer obsessed with **designing systems that scale silently but powerfully**.  
-💻 I specialize in **Java, Spring Boot, and MySQL**, and thrive on building **clean, modular, and reliable codebases**.  
-
-⚡ What drives me?  
-- Designing **REST APIs that never break under load**  
-- Engineering **authentication systems that protect data like a fortress**  
-- Exploring **Microservices, Docker, and Cloud Deployment**  
-
-🎯 Mission: To build backends that are **invisible yet indispensable**  
-✨ Motto: *“The best backends are like oxygen—unseen, but vital.”*  
+<p align="center">
+  A Backend Engineer specializing in the <strong>Java & Spring ecosystem</strong>. I transform complex system designs into secure, scalable, and high-performance backend services. My passion lies in building the invisible architecture that powers robust applications.
+</p>
 
 ---
 
-## 🔧 Tech Stack  
+## 🎯 Core Competencies
 
-### 🚀 Languages  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+As a backend specialist, my expertise lies in turning business requirements into functional, reliable code. Here's what I do best:
 
-### ⚡ Frameworks  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![AOP](https://img.shields.io/badge/AOP-%23FF6F00.svg?style=for-the-badge&logo=java&logoColor=white)
-
-### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🛠️ Tools  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
+-   ✅ **API Development:** Designing and implementing secure, versioned, and well-documented RESTful APIs using Spring Boot.
+-   ✅ **System Design:** Architecting scalable systems, focusing on microservices patterns, database optimization, and fault tolerance.
+-   ✅ **Authentication & Security:** Building robust security layers with Spring Security, including JWT-based authentication and role-based access control.
+-   ✅ **Database Management:** Designing efficient MySQL/PostgreSQL schemas, writing optimized queries, and ensuring data integrity.
+-   ✅ **Containerization:** Leveraging Docker to create consistent development environments and streamline deployments.
 
 ---
 
-## 📊 GitHub Stats & Graphs  
+## 🔧 My Tech Arsenal
 
-![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinav-1504&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-1504&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhinav-1504&theme=radical)  
- 
+My toolkit is centered around building modern, enterprise-grade Java applications.
 
-📊 **GitHub Summary Cards**  
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinav-1504&theme=radical)]()  
-[![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhinav-1504&theme=radical)]()  
-[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhinav-1504&theme=radical)]()  
-[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhinav-1504&theme=radical)]()  
-[![Commits Per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhinav-1504&theme=radical&utcOffset=5.5)]()  
+| Technology             | Category                                                                                                                                                                                                                                                         |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)                                                                  |
+| **Backend & APIs** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) ![REST API](https://img.shields.io/badge/REST-API-black?style=for-the-badge&logo=fastapi&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)                                                     |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) |
+| **Concepts & Patterns**| `Microservices` `System Design` `SOLID Principles` `REST` `AOP` `CI/CD`                                                                                                                                                                                   |
 
 ---
 
-## 📫 Connect With Me  
+## 🚀 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinavsinghc1) 
-[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavsinghc48@gmail.com)  
-![Profile Views](https://komarev.com/ghpvc/?username=abhinav-1504&style=for-the-badge)  
-![GitHub Followers](https://img.shields.io/github/followers/abhinav-1504?style=for-the-badge)  
+Here are some projects that showcase my skills and experience.
+
+### 🌐 Project Title 1: Scalable E-Commerce Backend
+A feature-rich microservices-based backend for an e-commerce platform, designed to handle high traffic for product catalogs, user authentication, and order processing.
+<br><br>
+**Tech Stack:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00f?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+<br>
+**[🔗 View on GitHub](https://github.com/abhinav-1504/your-repo-link)**
 
 ---
 
-💡 **Backend Quotes to live by:**  
-- *“A great backend is like an iceberg—90% is invisible, but it’s what keeps everything afloat.”*  
-- *“Frontend is the face, backend is the brain.”*  
-- *“Scalability isn’t an option—it’s the foundation.”*  
-- *“The best backend is one the user never notices—it just works.”*  
+### 🔐 Project Title 2: JWT Authentication Service
+A centralized, standalone authentication service that provides secure JWT generation and validation for a distributed system. Includes token refresh and role-based authorization endpoints.
+<br><br>
+**Tech Stack:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+<br>
+**[🔗 View on GitHub](https://github.com/abhinav-1504/your-repo-link)**
+
+---
+
+## 📊 My GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinav-1504&show_icons=true&theme=radical&rank_icon=github" alt="Abhinav's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav-1504&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-1504&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+<details>
+<summary><b>📈 More Detailed Stats</b></summary>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinav-1504&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhinav-1504&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhinav-1504&theme=radical&utcOffset=5.5" />
+</p>
+</details>
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of an ambitious team. Feel free to reach out!
+
+<p align="left">
+<a href="https://www.linkedin.com/in/abhinavsinghc1" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="abhinavsinghc1"/></a>
+<a href="mailto:abhinavsinghc48@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="abhinavsinghc48@gmail.com"/></a>
+</p>
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhinav-1504&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+</p>
