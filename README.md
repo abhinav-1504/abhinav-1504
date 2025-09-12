@@ -34,32 +34,29 @@ My toolkit is centered around building modern, enterprise-grade Java application
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects  
 
-Here are some projects that showcase my skills and experience.
+### 🚚 [Delivery Tracking System](https://github.com/abhinav-1504/delivery-tracking-system)  
+A secure delivery tracking platform with real-time GPS updates, role-based access, and instant email notifications.  
+**Tech:** Core Java, Spring Boot, Spring Security, JDBC, MySQL  
 
-### 🌐 Project Title 1: Scalable E-Commerce Backend
-A feature-rich microservices-based backend for an e-commerce platform, designed to handle high traffic for product catalogs, user authentication, and order processing.
-<br><br>
-**Tech Stack:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00f?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-<br>
-**[🔗 View on GitHub](https://github.com/abhinav-1504/your-repo-link)**
+- JWT authentication & RBAC for Admin, Customer, Delivery Agent.  
+- Real-time delivery tracking with GPS coordinates updated every 30 sec.  
+- Nearest-neighbor algorithm for route optimization (reduced avg. distance by 20%).  
+- Gmail SMTP integration for instant email notifications.  
+- Centralized logging with Spring AOP + 95% JUnit & Mockito test coverage.  
 
 ---
 
-### 🔐 Project Title 2: JWT Authentication Service
-A centralized, standalone authentication service that provides secure JWT generation and validation for a distributed system. Includes token refresh and role-based authorization endpoints.
-<br><br>
-**Tech Stack:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-<br>
-**[🔗 View on GitHub](https://github.com/abhinav-1504/your-repo-link)**
+### 🤖 [PromptCraft AI](https://github.com/abhinav-1504/PromptCraft-AI)  
+An AI-powered full-stack app integrating chat, image generation (DALL·E), recipe suggestions, and text-to-speech.  
+**Tech:** Java, Spring Boot, Spring AI, React, MySQL, OpenAI API  
+
+- Integrated OpenAI APIs for chat, TTS, and image generation.  
+- Responsive UI built with React, HTML, CSS, JS.  
+- Secure REST APIs with JDBC & MySQL.  
+- Achieved 95% usability score during peer testing.  
+
 
 ---
 
