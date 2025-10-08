@@ -31,33 +31,6 @@ My toolkit is centered around building modern, enterprise-grade Java application
 | **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)                                                     |
 | **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) |
 | **Concepts & Patterns**| `Microservices` `System Design` `SOLID Principles` `REST` `AOP` `CI/CD`                                                                                                                                                                                   |
-
----
-
-## 🚀 Featured Projects  
-
-### 🚚 [Delivery Tracking System](https://github.com/abhinav-1504/delivery-tracking-system)  
-A secure delivery tracking platform with real-time GPS updates, role-based access, and instant email notifications.  
-**Tech:** Core Java, Spring Boot, Spring Security, JDBC, MySQL  
-
-- JWT authentication & RBAC for Admin, Customer, Delivery Agent.  
-- Real-time delivery tracking with GPS coordinates updated every 30 sec.  
-- Nearest-neighbor algorithm for route optimization (reduced avg. distance by 20%).  
-- Gmail SMTP integration for instant email notifications.  
-- Centralized logging with Spring AOP + 95% JUnit & Mockito test coverage.  
-
----
-
-### 🤖 [PromptCraft AI](https://github.com/abhinav-1504/PromptCraft-AI)  
-An AI-powered full-stack app integrating chat, image generation (DALL·E), recipe suggestions, and text-to-speech.  
-**Tech:** Java, Spring Boot, Spring AI, React, MySQL, OpenAI API  
-
-- Integrated OpenAI APIs for chat, TTS, and image generation.  
-- Responsive UI built with React, HTML, CSS, JS.  
-- Secure REST APIs with JDBC & MySQL.  
-- Achieved 95% usability score during peer testing.  
-
-
 ---
 
 ## 📊 My GitHub Activity
