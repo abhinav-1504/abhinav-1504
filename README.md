@@ -41,14 +41,6 @@ My toolkit is centered around building modern, enterprise-grade Java application
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-1504&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
-<details>
-<summary><b>📈 More Detailed Stats</b></summary>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinav-1504&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhinav-1504&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhinav-1504&theme=radical&utcOffset=5.5" />
-</p>
-</details>
 
 ---
 
